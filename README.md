@@ -1,4 +1,4 @@
 # ChessyDip
 This is my first repo
 <br>
-author -- Mani Joshi 
+author -- Mani Joshi(Future Millionair)
